@@ -13,7 +13,7 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Introduction to academic publishing.
 
-	•	   Structure of scientific research article.
+	•	 Structure of scientific research article.
 
 	•	Impact Factor, Quartiles, CiteScore, h-index, SJR explained.
 
