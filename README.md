@@ -13,13 +13,17 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Introduction to academic publishing.
 
+	• Structure of 
+
 	•	Impact Factor, Quartiles, CiteScore, h-index, SJR explained.
 
 	•	How to check journal rankings and avoid predatory journals.
 
 	•	Practical exercise: evaluate journals for credibility and suitability.
 
-Session 2: **Reading Scientific Articles Efficiently**
+Session 2: **Literature Databases Searching & AI application**
+
+Session 3: **Reading Scientific Articles Efficiently**
 
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
 
