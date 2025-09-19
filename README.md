@@ -10,14 +10,23 @@ The course is designed for undergraduate and graduate students in biotechnology 
 📅 **Course Structure**
 
 Session 1: Selecting Journals & Understanding Metrics
+
 	•	Introduction to academic publishing.
+
 	•	Impact Factor, Quartiles, CiteScore, h-index, SJR explained.
+
 	•	How to check journal rankings and avoid predatory journals.
+
 	•	Practical exercise: evaluate journals for credibility and suitability.
 
 Session 2: Reading Scientific Articles Efficiently
+
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
+
 	•	Skimming vs. scanning strategies for fast reading.
+
 	•	How to focus on relevant parts (methods/results vs. background).
+
 	•	Group activity: practice reading and summarizing selected articles.
+
 	•	Tools for reference management (Zotero, Mendeley).
