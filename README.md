@@ -1,2 +1,2 @@
-# Technical_and_Science_English
-For Biotech students at Dong Thap University
+# Technical and Scientific English
+For 3rd year Biotech students at Dong Thap University
