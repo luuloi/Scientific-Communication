@@ -9,7 +9,7 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
 📅 **Course Structure**
 
-Session 1: Selecting Journals & Understanding Metrics
+Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Introduction to academic publishing.
 
@@ -19,7 +19,7 @@ Session 1: Selecting Journals & Understanding Metrics
 
 	•	Practical exercise: evaluate journals for credibility and suitability.
 
-Session 2: Reading Scientific Articles Efficiently
+Session 2: **Reading Scientific Articles Efficiently**
 
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
 
