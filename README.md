@@ -15,8 +15,8 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Structure of scientific research article.
 
-	•	Impact Factor, Quartiles, CiteScore, h-index, SJR explained.
-  [📓 Open on GitHub](https://github.com/luuloi/Scientific-Communication/blob/main/journal_metrics.ipynb) | 
+	•	Impact Factor, Quartiles, CiteScore, h-index, SJR explained. 
+  [📓 Open Notebook on GitHub](https://github.com/luuloi/Scientific-Communication/blob/main/Journal_metrrics.ipynb)
 
 	•	How to check journal rankings and avoid predatory journals.
 
