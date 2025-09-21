@@ -9,6 +9,9 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
 📅 **Course Structure**
 
+Session 0: **Introduction to Scientific Communication**
+•	[PPT](https://github.com/luuloi/Scientific-Communication/)
+
 Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Introduction to academic publishing.
