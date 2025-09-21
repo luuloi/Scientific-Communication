@@ -11,7 +11,8 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
 Session 0: **Introduction to Scientific Communication**\
 	[PPT](https://github.com/luuloi/Scientific-Communication/blob/main/Lecture_overview_2025Sept20.pptx) \
-    [Poster Project Registration (Deadline 28/09/2025)](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing)
+    [Poster Project Registration (Deadline 28/09/2025)](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing) \
+	[Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)
 
 Session 1: **Selecting Journals & Understanding Metrics**
 
