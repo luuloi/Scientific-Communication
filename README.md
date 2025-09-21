@@ -45,9 +45,9 @@ Session 4: **Reading Scientific Articles Efficiently**
 
 Session 5: **Scientific English**
 
-Session 6: **Writing Scientific Articles Efficiently**
+Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently**
 
-Session 7: **Preparing Scientific Poster and Oral Presentation Efficiently**
+Session 7: **Writing Scientific Articles Efficiently**
 
 Session 8: **Exam**
 
