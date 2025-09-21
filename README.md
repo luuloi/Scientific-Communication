@@ -50,7 +50,13 @@ Session 6: **Writing Scientific Articles Efficiently**
 Session 7: **Preparing Scientific Poster and Oral Presentation Efficiently**
 
 Session 8: **Exam**
-	•	**Day 1 Exam: Poster Presentation (5 students)**
-	•	**Day 2 Exam: Poster Presentation (5 students)**
-	•	**Day 3 Exam: Poster Presentation (5 students)**
-	•	**Day 4 Exam: Poster Presentation (5 students)**
+
+	•	Day 1 Exam: Poster Presentation (5 students)
+ 
+	•	Day 2 Exam: Poster Presentation (5 students)
+ 
+	•	Day 3 Exam: Poster Presentation (5 students)
+ 
+	•	Day 4 Exam: Poster Presentation (5 students)
+
+ 	•	Day 5 Exam: Poster Presentation (5 students)
