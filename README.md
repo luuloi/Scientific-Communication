@@ -11,7 +11,8 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
 Session 0: **Introduction to Scientific Communication**
 
-	•	[PPT](https://github.com/luuloi/Scientific-Communication/)
+	[PPT](https://github.com/luuloi/Scientific-Communication/blob/main/Lecture_overview_2025Sept20.pptx)
+    [Poster Project Registration](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing)
 
 Session 1: **Selecting Journals & Understanding Metrics**
 
