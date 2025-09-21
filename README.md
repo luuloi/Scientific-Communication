@@ -29,7 +29,9 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
 Session 2: **Literature Databases Searching & AI application**
 
-Session 3: **Reading Scientific Articles Efficiently**
+Session 3: **Listening Scientific Talks Efficiently**
+
+Session 4: **Reading Scientific Articles Efficiently**
 
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
 
@@ -40,3 +42,15 @@ Session 3: **Reading Scientific Articles Efficiently**
 	•	Group activity: practice reading and summarizing selected articles.
 
 	•	Tools for reference management (Zotero, Mendeley).
+
+Session 5: **Scientific English**
+
+Session 6: **Writing Scientific Articles Efficiently**
+
+Session 7: **Preparing Scientific Poster and Oral Presentation Efficiently**
+
+Session 8: **Exam**
+	•	**Day 1 Exam: Poster Presentation (5 students)**
+	•	**Day 2 Exam: Poster Presentation (5 students)**
+	•	**Day 3 Exam: Poster Presentation (5 students)**
+	•	**Day 4 Exam: Poster Presentation (5 students)**
