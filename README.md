@@ -37,7 +37,7 @@ Session 4: **Reading Scientific Articles Efficiently**
 
 	•	Skimming vs. scanning strategies for fast reading.
 
-	•	How to focus on relevant parts (methods/results vs. background).
+	•	How to focus on relevant parts (abstract, methods/results vs. background).
 
 	•	Group activity: practice reading and summarizing selected articles.
 
