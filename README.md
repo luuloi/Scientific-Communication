@@ -48,10 +48,10 @@ Session 5: **Scientific English** \
  
 Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
 	[Book="Speak Up Giving an Oral Presentation"](Speak_Up_Giving_an_Oral_Presentation.pdf)\
- 	[Book="The Art of Oral Scientific Presentation"](`The Art of Oral Scientific Presentation.pdf`)
+ 	[Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)
 
 Session 7: **Writing Scientific Articles Efficiently**\
-	[Book="Writing and Publishing Scientific Papers A Primer for the Non-English Speaker"](Writing and Publishing Scientific Papers A Primer for the Non-English Speaker.pdf)
+	[Book="Writing and Publishing Scientific Papers A Primer for the Non-English Speaker"](Writing_and_Publishing_Scientific_Papers_A_Primer_for_the_Non-English_Speaker.pdf)
  
 Session 8: **Exam**
 
