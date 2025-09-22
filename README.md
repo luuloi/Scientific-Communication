@@ -46,9 +46,9 @@ Session 4: **Reading Scientific Articles Efficiently**
 Session 5: **Scientific English** \
 	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
  
-Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently**\
-	[Book="Speak Up Giving an Oral Presentation"]('Speak Up Giving an Oral Presentation.pdf')\
- 	[Book="The Art of Oral Scientific Presentation"](The Art of Oral Scientific Presentation.pdf)
+Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
+	[Book="Speak Up Giving an Oral Presentation"]("Speak Up Giving an Oral Presentation.pdf")\
+ 	[Book="The Art of Oral Scientific Presentation"](`The Art of Oral Scientific Presentation.pdf`)
 
 Session 7: **Writing Scientific Articles Efficiently**\
 	[Book="Writing and Publishing Scientific Papers A Primer for the Non-English Speaker"](Writing and Publishing Scientific Papers A Primer for the Non-English Speaker.pdf)
