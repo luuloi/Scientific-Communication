@@ -44,7 +44,7 @@ Session 4: **Reading Scientific Articles Efficiently**
 	•	Tools for reference management (Zotero, Mendeley).
 
 Session 5: **Scientific English** \
-	[Book="Scientific English"](Scientific English A Guide for Scientists and Other Professionals (Robert A. Day, Nancy Sakaduski) (Z-Library).pdf)
+	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
  
 Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently**
 
