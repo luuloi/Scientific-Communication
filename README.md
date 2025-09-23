@@ -32,7 +32,7 @@ Session 2: **Literature Databases Searching & AI application**
 Session 3: **Listening Scientific Talks Efficiently**
 
 Session 4: **Reading Scientific Articles Efficiently**\
-	[Book="How to Read and Critique a Scientific Research Article"](How_to_Read_and_Critique_a_Scientific_Research_Article_Notes_to_Guide_Students_Reading_Primary_Literature.pdf)\
+	[Book="How to Read and Critique a Scientific Research Article"](How_to_Read_and_Critique_a_Scientific_Research_Article_Notes_to_Guide_Students_Reading_Primary_Literature.pdf)
 	
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
 
