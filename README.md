@@ -20,7 +20,9 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Structure of scientific research article.
 
-	•	Impact Factor, Quartiles, CiteScore, h-index, SJR •	How to check journal rankings and avoid predatory journals.
+	•	Impact Factor, Quartiles, CiteScore, h-index, SJR  
+
+ •	How to check journal rankings and avoid predatory journals.
 
 	•	Practical exercise: evaluate journals for credibility and suitability.
 
