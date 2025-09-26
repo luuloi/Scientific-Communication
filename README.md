@@ -24,7 +24,7 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
 	•	Practical exercise: evaluate journals for credibility and suitability.
 
-  [📓 Open Notebook on GitHub](https://github.com/luuloi/Scientific-Communication/blob/main/Journal_metrrics.ipynb)
+  [📓 Open Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/Journal_metrrics.ipynb)
 	
 Session 2: **Literature Databases Searching & AI application**
 
