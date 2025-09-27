@@ -14,12 +14,10 @@ Session 0: **Introduction to Scientific Communication**\
     	[Poster Project Registration (Deadline 28/09/2025)](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing) \
 		[Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)\
 	\
-    	**APPENDIX 1 (deadline: Sep 21):** Assessment\
-		[QRcode](images/Journal_metrics/qr_preassessment.png)\
+    	[ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)\
 	\
-		**APPENDIX 2 (deadline: Oct 02):** Writing pre-assessment\
+		[ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)\
 		Topic: Think of a time when you read an article (magazine, newspaper, online source) about a science or health topic. What did you learn from this article? Did you consider it to be credible source at the time? Why or why not? What do you think on this article now? If you have changed your mind about the article, why did you change your mind?\
-		[Draft your answer here](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)\
 		Format of your file name: YourFullName_StudentID.docx/pdf
 
 Session 1: **Selecting Journals & Understanding Metrics**
