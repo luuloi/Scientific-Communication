@@ -51,7 +51,7 @@ Session 4: **Reading Scientific Articles Efficiently**\
 
 	•	Tools for reference management (Zotero, Mendeley).
 
-  [📓Notebook](https://github.com/luuloi/Scientific-Communication/main/paper_tructures.ipynb)
+[📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
 Session 5: **Scientific English** \
 	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
