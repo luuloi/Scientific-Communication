@@ -33,7 +33,7 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
   [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/Journal_metrrics.ipynb)
 	
-Session 2: **Literature Databases Searching & AI application**
+Session 2: **Literature Databases Searching & AI application**\
   [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
 Session 3: **Reading Scientific Articles Efficiently**\
@@ -47,9 +47,9 @@ Session 3: **Reading Scientific Articles Efficiently**\
 
 	•	Group activity: practice reading and summarizing selected articles.
 
-	•	Tools for reference management (Zotero, Mendeley).
-
-    [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
+	•	Tools for reference management (Zotero, Mendeley)
+	
+ [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
 Session 4: **Scientific English** \
 	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
