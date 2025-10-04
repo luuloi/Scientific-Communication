@@ -34,11 +34,9 @@ Session 1: **Selecting Journals & Understanding Metrics**
   [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/Journal_metrrics.ipynb)
 	
 Session 2: **Literature Databases Searching & AI application**
+  [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
-Session 3: **Listening Scientific Talks Efficiently**\
-	[Book="Keys to Effective Listening and Presenting"](Keys_to_Effective_Listening_and_Presenting.pdf)
-
-Session 4: **Reading Scientific Articles Efficiently**\
+Session 3: **Reading Scientific Articles Efficiently**\
 	[Book="How to Read and Critique a Scientific Research Article"](How_to_Read_and_Critique_a_Scientific_Research_Article_Notes_to_Guide_Students_Reading_Primary_Literature.pdf)
 	
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
@@ -51,11 +49,15 @@ Session 4: **Reading Scientific Articles Efficiently**\
 
 	•	Tools for reference management (Zotero, Mendeley).
 
-[📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
+    [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
-Session 5: **Scientific English** \
+Session 4: **Scientific English** \
 	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
- 
+
+
+Session 5: **Listening Scientific Talks Efficiently**\
+	[Book="Keys to Effective Listening and Presenting"](Keys_to_Effective_Listening_and_Presenting.pdf)
+	
 Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
 	[Book="Speak Up Giving an Oral Presentation"](Speak_Up_Giving_an_Oral_Presentation.pdf)\
  	[Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)
