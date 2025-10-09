@@ -48,6 +48,18 @@ Session 3: **Reading Scientific Articles Efficiently**\
 	•	Group activity: practice reading and summarizing selected articles.
 
 	•	Tools for reference management (Zotero, Mendeley)
+
+	Work 1: Read and summarize graphs in a selected research article.\
+	[Paper1="Isolation and selection of probiotic Lactobacillus strains from chicken intestinal tract: A potential solution for ustainable poultry production in Vietnam"](exercises/Nguyen_Phuong_Thuy,2024.pdf)
+
+	Work 2: Read and summarize graphs in a selected research article.\
+	[Paper2=""]
+	
+	Work 3: Read and summarize graphs in a selected research article.\
+	[Paper3="Lactococcus lactis I7 isolated from traditional Italian cheese making: a biotechnological integrated platform"](exercises/Alberto_Alfano,2025.pdf)
+
+
+
 	
  [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
