@@ -14,10 +14,10 @@ The course is designed for undergraduate and graduate students in biotechnology 
 [Poster Project Registration (Deadline 28/09/2025)](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing) \
 [Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)\
 [ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)\
-[ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)\
+[ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)
 
 	Topic: Think of a time when you read an article (magazine, newspaper, online source) about a science or health topic. What did you learn from this article? Did you consider it to be credible source at the time? Why or why not? What do you think on this article now? If you have changed your mind about the article, why did you change your mind?
-	
+
 	Format of your file name: YourFullName_StudentID.docx/pdf
 
 ## Session 1: **Selecting Journals & Understanding Metrics**
@@ -38,7 +38,7 @@ The course is designed for undergraduate and graduate students in biotechnology 
   [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
 ## Session 3: **Reading Scientific Articles Efficiently**
-	[Book="How to Read and Critique a Scientific Research Article"](How_to_Read_and_Critique_a_Scientific_Research_Article_Notes_to_Guide_Students_Reading_Primary_Literature.pdf)
+[Book="How to Read and Critique a Scientific Research Article"](How_to_Read_and_Critique_a_Scientific_Research_Article_Notes_to_Guide_Students_Reading_Primary_Literature.pdf)
 	
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
 
@@ -62,11 +62,11 @@ The course is designed for undergraduate and graduate students in biotechnology 
  [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
 ## Session 4: **Scientific English** 
-	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
+[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
 
 
 ## Session 5: **Listening Scientific Talks Efficiently**
-	[Book="Keys to Effective Listening and Presenting"](Keys_to_Effective_Listening_and_Presenting.pdf)
+[Book="Keys to Effective Listening and Presenting"](Keys_to_Effective_Listening_and_Presenting.pdf)
 	
 
 ## Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** 
