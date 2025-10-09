@@ -49,13 +49,13 @@ Session 3: **Reading Scientific Articles Efficiently**\
 
 	•	Tools for reference management (Zotero, Mendeley)
 
-Work 1: Read and summarize graphs in a selected research article.\
+**Exercise 1:** Read and summarize graphs in a selected research article.\
 [Paper1="Isolation and selection of probiotic Lactobacillus strains from chicken intestinal tract: A potential solution for ustainable poultry production in Vietnam"](exercises/Nguyen_Phuong_Thuy,2024.pdf)
 
-Work 2: Read and summarize graphs in a selected research article.\
+**Exercise 2:** Read and summarize graphs in a selected research article.\
 [Paper2="Plant growth-promoting rhizobacteria (PGPR) improve the growth and quality of several crops"](exercises/Tongrui_Zhang,2024.pdf)
 	
-Work 3: Read and summarize graphs in a selected research article.\
+**Exercise 3:** Read and summarize graphs in a selected research article.\
 [Paper3="Lactococcus lactis I7 isolated from traditional Italian cheese making: a biotechnological integrated platform"](exercises/Alberto_Alfano,2025.pdf)
 
 
@@ -72,7 +72,9 @@ Session 5: **Listening Scientific Talks Efficiently**\
 	
 Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
 	[Book="Speak Up Giving an Oral Presentation"](Speak_Up_Giving_an_Oral_Presentation.pdf)\
- 	[Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)
+ 	[Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)\
+	[PDF="Funcitonal tumor subclones predict clinical outcomes in merkel cell carcinoma from Bulk & Singlecell RNA-seq](images/Poster_preparation/MCC2025.pdf)\
+	[PDF=Nitidine reprograms NTERA-2 cancer stem cell"](images/Poster_preparation/Nitidine_Cancer_stemcell.pdf)
 
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
 
