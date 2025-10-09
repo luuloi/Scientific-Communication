@@ -73,7 +73,11 @@ Session 5: **Listening Scientific Talks Efficiently**\
 Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
 	[Book="Speak Up Giving an Oral Presentation"](Speak_Up_Giving_an_Oral_Presentation.pdf)\
  	[Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)\
+	**Exercise 1:** Read and comment all the content of the poster below.\
+	[HCMCOU2025](images/Poster_preparation/HCMCOU2025.png)\
+	**Exercise 2:** Read and comment all the content of the poster below.\
 	[PDF="Funcitonal tumor subclones predict clinical outcomes in merkel cell carcinoma from Bulk & Singlecell RNA-seq](images/Poster_preparation/MCC2025.pdf)\
+	**Exercise 3:** Read and comment all the content of the poster below.\
 	[PDF=Nitidine reprograms NTERA-2 cancer stem cell"](images/Poster_preparation/Nitidine_Cancer_stemcell.pdf)
 
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
