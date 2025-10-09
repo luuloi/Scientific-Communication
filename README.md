@@ -80,7 +80,7 @@ The course is designed for undergraduate and graduate students in biotechnology 
 [Funcitonal tumor subclones predict clinical outcomes in merkel cell carcinoma from Bulk & Singlecell RNA-seq](images/Poster_preparation/MCC2025.pdf) 
 
 **Exercise 3:** Read and comment all the content of the poster below.\
-[Nitidine Reprograms NTERA-2 Cancer Stem Cell](images/Poster_preparation/Nitidine_Cancer_stemcell.pdf) 
+[Nitidine Reprograms NTERA-2 Cancer Stem Cell](images/Poster_preparation/Nitidine_Cancer_stemcell.pdf) \
 \
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
 
