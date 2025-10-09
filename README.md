@@ -9,7 +9,7 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
 📅 **Course Structure**
 
-Session 0: **Introduction to Scientific Communication**\
+## Session 0: **Introduction to Scientific Communication**\
 		[PPT](https://github.com/luuloi/Scientific-Communication/blob/main/Lecture_overview_2025Sept20.pptx) \
     	[Poster Project Registration (Deadline 28/09/2025)](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing) \
 		[Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)\
@@ -19,7 +19,7 @@ Session 0: **Introduction to Scientific Communication**\
 		Topic: Think of a time when you read an article (magazine, newspaper, online source) about a science or health topic. What did you learn from this article? Did you consider it to be credible source at the time? Why or why not? What do you think on this article now? If you have changed your mind about the article, why did you change your mind?\
 		Format of your file name: YourFullName_StudentID.docx/pdf
 
-Session 1: **Selecting Journals & Understanding Metrics**
+## Session 1: **Selecting Journals & Understanding Metrics**
 
  	•	Introduction to academic publishing.
 
@@ -33,10 +33,10 @@ Session 1: **Selecting Journals & Understanding Metrics**
 
   [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/Journal_metrrics.ipynb)
 	
-Session 2: **Literature Databases Searching & AI application**\
+## Session 2: **Literature Databases Searching & AI application**\
   [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
-Session 3: **Reading Scientific Articles Efficiently**\
+## Session 3: **Reading Scientific Articles Efficiently**\
 	[Book="How to Read and Critique a Scientific Research Article"](How_to_Read_and_Critique_a_Scientific_Research_Article_Notes_to_Guide_Students_Reading_Primary_Literature.pdf)
 	
 	•	Structure of a research paper (IMRaD: Introduction, Methods, Results, Discussion).
@@ -58,19 +58,16 @@ Session 3: **Reading Scientific Articles Efficiently**\
 **Exercise 3:** Read and summarize graphs in a selected research article.\
 [Paper3="Lactococcus lactis I7 isolated from traditional Italian cheese making: a biotechnological integrated platform"](exercises/Alberto_Alfano,2025.pdf)
 
-
-
-	
  [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/paper_tructures.ipynb)
 
-Session 4: **Scientific English** \
+## Session 4: **Scientific English** \
 	[Book="Scientific English"](Scientific_English_A_Guide_for_Scientists.pdf)
 
 
-Session 5: **Listening Scientific Talks Efficiently**\
+## Session 5: **Listening Scientific Talks Efficiently**\
 	[Book="Keys to Effective Listening and Presenting"](Keys_to_Effective_Listening_and_Presenting.pdf)
 	
-Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
+## Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
 	[Book="Speak Up Giving an Oral Presentation"](Speak_Up_Giving_an_Oral_Presentation.pdf)\
  	[Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)\
 	**Exercise 1:** Read and comment all the content of the poster below.\
@@ -82,10 +79,10 @@ Session 6: **Preparing Scientific Poster and Oral Presentation Efficiently** \
 
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
 
-Session 7: **Writing Scientific Articles Efficiently**\
+## Session 7: **Writing Scientific Articles Efficiently**\
 	[Book="Writing and Publishing Scientific Papers A Primer for the Non-English Speaker"](Writing_and_Publishing_Scientific_Papers_A_Primer_for_the_Non-English_Speaker.pdf)
  
-Session 8: **Exam**
+## Session 8: **Exam**
 
 	•	Day 1 Exam: Poster Presentation (5 students)
  
