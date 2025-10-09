@@ -73,13 +73,13 @@ The course is designed for undergraduate and graduate students in biotechnology 
 [Book="Speak Up Giving an Oral Presentation"](Speak_Up_Giving_an_Oral_Presentation.pdf)\
 [Book="The Art of Oral Scientific Presentation"](The_Art_of_Oral_Scientific_Presentation.pdf)\
 \
-**Exercise 1:** Read and comment all the content of the poster below.\
+**Exercise 1:** Read and comment on the content and layout/format of the poster below.\
 [Spatial Transcriptomics Uncovers Tumor Microenvironments among Advanced Non-small cell Lung Cancer Subtypes](images/Poster_preparation/HCMCOU2025.png) 
 
-**Exercise 2:** Read and comment all the content of the poster below.\
+**Exercise 2:** Read and comment on the content and layout/format of the poster below.\
 [Funcitonal tumor subclones predict clinical outcomes in merkel cell carcinoma from Bulk & Singlecell RNA-seq](images/Poster_preparation/MCC2025.pdf) 
 
-**Exercise 3:** Read and comment all the content of the poster below.\
+**Exercise 3:** Read and comment on the content and layout/format of the poster below.\
 [Nitidine Reprograms NTERA-2 Cancer Stem Cell](images/Poster_preparation/Nitidine_Cancer_stemcell.pdf) \
 \
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
