@@ -85,8 +85,10 @@ The course is designed for undergraduate and graduate students in biotechnology 
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
 
 ## Session 7: **Writing Scientific Articles Efficiently**
-[Book="Writing and Publishing Scientific Papers A Primer for the Non-English Speaker"](Writing_and_Publishing_Scientific_Papers_A_Primer_for_the_Non-English_Speaker.pdf)
- 
+[Book="Writing and Publishing Scientific Papers A Primer for the Non-English Speaker"](Writing_and_Publishing_Scientific_Papers_A_Primer_for_the_Non-English_Speaker.pdf)\
+[PDF="TỪ Ý TƯỞNG NGHIÊN CỨU ĐẾN CÔNG BỐ QUỐC TẾ"](CBQT.pdf)\
+[PPT="TỪ Ý TƯỞNG NGHIÊN CỨU ĐẾN CÔNG BỐ QUỐC TẾ"](CBQT_PPT.pdf)
+
 ## Session 8: **Exam**
 
 	•	Day 1 Exam (18:15 to 19:15 - 20/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
