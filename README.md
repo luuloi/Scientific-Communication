@@ -89,12 +89,12 @@ The course is designed for undergraduate and graduate students in biotechnology 
  
 ## Session 8: **Exam**
 
-	•	Day 1 Exam (18:15 to 19h15 - 20/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
+	•	Day 1 Exam (18:15 to 19:15 - 20/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
  
-	•	Day 2 Exam (18:15 to 19h15 - 21/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
+	•	Day 2 Exam (18:15 to 19:15 - 21/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
  
-	•	Day 3 Exam (18:15 to 19h15 - 22/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
+	•	Day 3 Exam (18:15 to 19:15 - 22/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
  
-	•	Day 4 Exam (18:15 to 19h15 - 23/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
+	•	Day 4 Exam (18:15 to 19:15 - 23/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
 
- 	•	Day 5 Exam (18:15 to 19h15 - 24/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
+ 	•	Day 5 Exam (18:15 to 19:15 - 24/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
