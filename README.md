@@ -104,6 +104,6 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
  	•	Day 5 Exam (18:15 to 19:15 - 24/10/2025): Poster Presentation (5 students, 6 min for presentation + 9 min for Q&A of 3 reviewers)
 
-	\
-	![List of Poster Presentation and Dates](Danh_sach_thi.PNG)
+	
+![List of Poster Presentation and Dates](images/Danh_sach_thi.PNG)
 	
