@@ -81,6 +81,9 @@ The course is designed for undergraduate and graduate students in biotechnology 
 
 **Exercise 3:** Read and comment on the content and layout/format of the poster below.\
 [Nitidine Reprograms NTERA-2 Cancer Stem Cell](images/Poster_preparation/Nitidine_Cancer_stemcell.pdf) \
+
+**Exercise 4:** Read and comment on the content and layout/format of the poster below.\
+[The Blessing and Curse of Demensionality in the Safety Alignment](Blessing_Poster.jpg) \
 \
 [📓Notebook](https://github.com/luuloi/Scientific-Communication/blob/main/poster_preparation.ipynb)
 
