@@ -10,11 +10,15 @@ The course is designed for undergraduate and graduate students in biotechnology 
 📅 **Course Structure**
 
 ## Session 0: **Introduction to Scientific Communication**
-[PPT](https://github.com/luuloi/Scientific-Communication/blob/main/Lecture_overview_2025Sept20.pptx) \
-[Poster Project Registration (Deadline 28/09/2025)](https://docs.google.com/spreadsheets/d/12YpEbNySqHpNNADEDEMcw-C-NgWBQZ193iHrRU0h5Js/edit?usp=sharing) \
-[Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)\
-[ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)\
-[ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)
+- [PPT](https://github.com/luuloi/Scientific-Communication/blob/main/Lecture_overview_2025Sept20.pptx) \
+- [Poster Project Registration for K24A (Deadline 29/09/2026)](https://docs.google.com/spreadsheets/d/1diGbdNrDQrmK18h-X4qy2_SVQ7CzC9X8VC7rCwczWNs/edit?usp=sharing) \
+- [Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)\
+- [ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)\
+- [ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)
+- [Poster Project Registration for K24B (Deadline 30/09/2026)]() \
+- [Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)\
+- [ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)\
+- [ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)
 
 	Topic: Think of a time when you read an article (magazine, newspaper, online source) about a science or health topic. What did you learn from this article? Did you consider it to be credible source at the time? Why or why not? What do you think on this article now? If you have changed your mind about the article, why did you change your mind?
 
