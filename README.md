@@ -2,7 +2,7 @@
 For 3rd year Biotech students at Dong Thap University
 ##
 ### [K24A: Checking Attending](https://docs.google.com/spreadsheets/d/1jZLB8jKepK1bwvF-Uj03LmoKzCORGdwEfPtz164UkmM/edit?gid=0#gid=0)
-### [K24B: Checking Attending](https://docs.google.com/spreadsheets/d/1jZLB8jKepK1bwvF-Uj03LmoKzCORGdwEfPtz164UkmM/edit?gid=0#gid=0)
+### [K24B: Checking Attending](https://docs.google.com/spreadsheets/d/1w7ysdrYxSYjEHRYjyyDuKmrDT6ZOYDmAUSDiOpMsIKk/edit?usp=sharing)
 
 🎯 **Course Overview**
 
