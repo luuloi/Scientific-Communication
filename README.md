@@ -18,7 +18,7 @@ The course is designed for undergraduate and graduate students in biotechnology 
 - [Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)
 - [ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)
 - [ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)
-- [Poster Project Registration for K24B (Deadline 30/09/2026)]()
+- [Poster Project Registration for K24B (Deadline 30/09/2026)](https://docs.google.com/spreadsheets/d/1bVyjM6anMxFoeOhy2vP90UdK8-_hcRGLFWzoCx0RjYg/edit?usp=sharing)
 - [Homework 01 (Deadline 28/09/2025)](https://github.com/luuloi/Scientific-Communication/blob/main/Homework01.pptx)
 - [ACTIVITY 01 (Deadline 21/09/2025)](images/Journal_metrics/qr_preassessment.png)
 - [ACTIVITY 02 (Deadline 02/10/2025)](https://drive.google.com/drive/folders/1E6ef-1Vh0rlZMXmhc8RRwWs6CTm8welf?usp=sharing)
